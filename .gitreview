@@ -1,5 +1,5 @@
 [gerrit]
 host=review.exodus-developers.net
 port=29418
-project=vendors/oneplus_bacon
+project=TeamExodus/vendor_oneplus_bacon
 defaultbranch=EXODUS-6.0
